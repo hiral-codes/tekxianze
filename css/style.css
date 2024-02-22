@@ -1573,6 +1573,20 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 100%;
   backdrop-filter: blur(8px);
 }
+.student-co{
+  list-style: none;
+}
+.title-co{
+  font-size:18px;
+  color: #0e1b4d;
+  font-weight: bold;
+}
+.student-co li{
+  margin-left: -38px;
+  color: #0e1b4d;
+  font-size: 16px;
+  font-weight: 400;
+}
 /*--------------------------------------------------------------
 # Responsive Media Queries
 --------------------------------------------------------------*/
