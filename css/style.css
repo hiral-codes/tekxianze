@@ -157,7 +157,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-fixed {
-  background: #1E1E1E;
+  background: rgba(0, 0, 0, 0.959);
   height: 70px;
   padding: 15px 0;
   transition: all 0.5s;
@@ -1561,7 +1561,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .computer-tek{
   background-image:url("../img/0_0\ \(5\).webp");
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   position: relative;
 }
@@ -1571,7 +1571,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   inset: 0;
   width: 100%;
   height: 100%;
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(8px);
 }
 /*--------------------------------------------------------------
 # Responsive Media Queries
