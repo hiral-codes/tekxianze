@@ -1,3 +1,9 @@
+function contentLoaded() {
+  var loaderContainer = document.querySelector('.pre-loader-container');
+  loaderContainer.style.display = 'none';
+}
+window.addEventListener('load', contentLoaded);
+
 jQuery(document).ready(function( $ ) {
 
   // Back to top button
