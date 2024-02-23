@@ -896,7 +896,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   /* font-style: italic; */
   color: #152b79;
   margin-bottom: 0;
-  font-weight: 500;
+  font-weight: 510;
+  font-size: 14px;
 }
 
 /*--------------------------------------------------------------
